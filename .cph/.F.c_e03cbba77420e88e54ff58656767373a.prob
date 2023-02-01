@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\Saurav\\projects\\helloworld\\F.c","tests":[{"id":1631702981675,"input":"5\n1 2 3 4 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Saurav\\projects\\helloworld\\F.c","group":"local","local":true}

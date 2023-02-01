@@ -1,0 +1,1 @@
+function funt(){console.log(5)}

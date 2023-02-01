@@ -1,0 +1,40 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+typedef vector<int> vi;
+typedef pair<int,int> pii;
+
+#define pb emplace_back
+#define mp make_pair
+#define F first
+#define int long long
+#define S second
+
+signed main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int n,k;
+    vi v;
+    cin>>n>>k;
+    for(int i=0;i<n;i++)
+    {
+        int g;
+        cin>>g;
+        v.pb(g);
+    }
+    v.pb(1);
+    int i=0;
+    while(i+1!=k)
+    {
+        if(1+i>k) 
+        {
+            cout<<"NO";
+            exit(0);
+        }
+        i+=v[i];
+    }
+    cout<<"YES";
+}

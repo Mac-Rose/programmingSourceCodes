@@ -1,0 +1,1 @@
+{"name":"Local: Banker_and_Stock","url":"c:\\Users\\Saurav\\projects\\helloworld\\Banker_and_Stock.cpp","tests":[{"id":1665644971525,"input":"abccccdd","output":"7"},{"id":1665645173916,"input":"a","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Saurav\\projects\\helloworld\\Banker_and_Stock.cpp","group":"local","local":true}

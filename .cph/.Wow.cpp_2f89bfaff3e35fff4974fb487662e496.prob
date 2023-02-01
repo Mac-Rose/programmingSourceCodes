@@ -1,0 +1,1 @@
+{"name":"Wow","group":"SPOJ - Basics","url":"https://www.spoj.com/problems/SMPWOW/","interactive":false,"memoryLimit":1536,"timeLimit":1000,"tests":[],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"languages":{"java":{"mainClass":"Main","taskClass":"Wow"}},"srcPath":"c:\\Users\\Saurav\\projects\\helloworld\\Wow.cpp"}
